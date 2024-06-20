@@ -1,7 +1,6 @@
 '''
 
-tocken github
-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
+
 @author: Prathmesh R Madhu.
 For educational purposes only
 '''
